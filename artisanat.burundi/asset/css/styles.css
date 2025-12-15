@@ -1,0 +1,14 @@
+.c-item {
+  height: 480px;
+}
+
+.c-img {
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+
+
+.card{
+  box-shadow: 0 0 5px 0 rgba(22, 22, 26, .25);
+}
